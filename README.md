@@ -1,1 +1,2 @@
 # hexo-theme-autoload
+test
